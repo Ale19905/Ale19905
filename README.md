@@ -10,7 +10,7 @@ As a passionate Frontend Developer, I bring a comprehensive skill set and dedica
 ## CONTACT ME:
 - [Portfolio](https://portfolio-alejandro-nine.vercel.app/)
 - [Linkedin](https://www.linkedin.com/in/alejandro-del-llano-hern%C3%A1ndez-566791326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
-- [Email me](alejandrodelllanohernandez@gmail.com)
+
 <!--
 **Ale19905/Ale19905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
